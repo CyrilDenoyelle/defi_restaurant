@@ -11,7 +11,7 @@
 }
 
 .thumbnail {
-	box-shadow: 0px 10px 10px -5px #656565; 
+	box-shadow: 0px 10px 10px -5px #656565;
 }
 
 h5 {
@@ -21,4 +21,71 @@ h5 {
 
 .container {
 	background-color: #ECF0F1;
+}
+.top-bar{
+   background: linear-gradient(red, red 30%, #f46b42);
+}
+
+.logo{
+  margin-left: 27em;
+  margin-top:-6em;
+  padding-left: 0.3em;
+  font-size: 0.6em;
+  list-style: none;
+  border-left: solid 0.1em white;
+  color: white;
+  background-color: transparent;
+  color: white;
+}
+
+.top-bar-left h5{
+  font-family: 'Yellowtail', cursive;
+  font-size: 1.2em;
+}
+
+.menu {
+  background-color: transparent;
+  color: white;
+  margin-top: 1em;
+  font-size: 0.9em;
+  margin-right: 5em;
+}
+
+.top-bar ul{
+  background-color: transparent;
+}
+
+a {
+  color: white;
+}
+
+a:hover{
+  color: black;
+}
+
+.Palm a {
+  color: #909fa8;
+  font-size: 2em;
+}
+
+footer{
+  background-color: gray;
+  margin-bottom: 0;
+  height: 80px;
+  padding-top: 30px;
+  color: white;
+  font-size: 0.8em;
+
+}
+
+.Policy{
+  margin-left: 18.7em;
+  margin-top: -1.5em;
+  border-left: solid 0.1em white;
+  padding-left: 0.2em;
+}
+
+.copyright {
+  margin-right: 0px;
+  margin-left: 50px;
 }
