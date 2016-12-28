@@ -13,3 +13,12 @@
 .thumbnail {
 	box-shadow: 0px 10px 10px -5px #656565; 
 }
+
+h5 {
+	color: red;
+	text-transform: uppercase;
+}
+
+.container {
+	background-color: #ECF0F1;
+}
